@@ -26,7 +26,7 @@
 
 - they have different luggage and passenger capacities:
     1. **standard sedan**:
-        - 3 passengers / 3 bags(during COVID-19, capacity was 2 - backseats). 
+        - 3 passengers / 3 bags(during COVID-19, capacity was 2 - backseats).
         - *models*:
             1. Cadillac XTS
             2. Cadillac CT5
@@ -47,18 +47,17 @@
             1. Mercedes Sprinter
             2. Ford Transit.
             - Note: There is a sprinter limo, looks the same, but instead of forward facing seats has a different/limo seats.
-
-    4. *mini-coach*: 18-26 passengers / 18-26 luggage capacity
+    4. *mini-coach*: 18-26 passengers / 18-26 luggage capacity.
     5. *coach bus*: 54-56 / 50 luggage capacity.
     6. *stretch limo*: 7/10 depends on the limo.
 - When to use party buses and stretch limos?
-    - proms
-    - weddings
-    - bachelors/bachelorette party
+    - proms.
+    - weddings.
+    - bachelors/bachelorette parties.
 - When deciding which vehicle/the price to select consider?
-    - the purpose
-    - number of passengers
-    - luggage
+    - the purpose.
+    - number of passengers.
+    - luggage.
 
 ---
 
