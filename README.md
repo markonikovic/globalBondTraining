@@ -368,9 +368,7 @@
 # Reservation Notes
 
 - details about the booking that can be crucial.
-
 - specific instruction for each client, e.g. How to reach specific location? Gate codes...
-
 - kind of notes:
     1. trip notes
     2. dispatch notes
@@ -378,19 +376,14 @@
 ## Trip Notes
 
 - available to everyone(agents, drivers, clients).
-
 - it's especially useful for drivers.
-
 - no actual prices in trip notes.
-
 - important notes(keep a mask on, help the client...)
 
 ## Dispatch Notes
 
 - only for agents, so drivers don't know about it.
-
 - it is about prices, payments.
-
 - dispatch notes and trip notes are available to affiliates(don't disclose markup or any kind of prices)
 
 ---
@@ -398,9 +391,7 @@
 # Flight Tracking
 
 - *Limoanywhere* has [*Flight View*](https://www.flightview.com/) and [*Flight Aware*](https://www.flightaware.com/).
-
 - Learn airport and airline codes.
-
 - if the information is incomplete:
     - use departure location, destination, airline and time of arrival.
     - so using *flighview*, we can easily find out the information.
@@ -410,27 +401,19 @@
 # Mapping
 
 - use Google Maps.
-
 - for *domestic flights* customers should be *one hour and thirty* minutes before the departure and for *international* *three hours*.
-
 - pickup time depends on the time of the day as well, so always use *arrived by* option, instead of *leave now*.
-
-- it's good to add 10-15 minutes of additional time, depending on the distance.
-
 - on existing reservation it's possible to use *mapping* from *Limoanywhere*.
 
 ## Quotes
 
 - section after Accounts in **Lymoanywhere**
-
 - quote(price inquiry):
     - email
     - phone
     - chatbot
     - website(after clients fill in the form)
-
 - unresolved quotes are green.
-
 - How to send a quote email to the client?
     - Use the button *Action*:
         1. *Open Quote Request*
@@ -455,9 +438,7 @@
 ## Important Notes
 
 - companies don't give refunds for unused service.
-
 - any extra hour is charged additionally.
-
 - waiting time for airports for domestic 45-60min, for international 60-90min.
 
 ---
@@ -466,19 +447,14 @@
 
 1. Explain in your own words what the limo industry is?
     - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
-
 2. What type of service does Global Bond provide?
     - Global Bond provides customer support service to different companies within limo industry.
-
 3. What are the main differences between the limo industry and taxi or *Uber* service?
     - Companies from limo industry provide higher level of service than any company from taxi industry(vehicles, chauffeurs, customer support, custom tailored experience...). Limo companies provide substantially higher level of service for higher fees.
-
 4. Who are the frequent users of the limo service (type of customers)?
     - Corporations use limo service for their their business needs(executives, important guests), VIP(movie starts, singers, high-level public servants...), people who need not urgent medial attention(people with special needs), retail(private individuals for weddings, parties, etc.)...
-
 5. Who should initiate conversation in the vehicle, driver or customer?
     - Customer can initiate the conversation, chauffeurs are not supposed to initiate conversation with the clients, just politely respond to the questions.
-
 6. Describe the profile of an average black car service driver?
     - Drivers are: 
       - usually older(ex police officers, military backgrounds...)
@@ -487,16 +463,12 @@
       - patient and polite - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
       - helpful(should open doors for clients, help with luggage)
       - chauffeurs are the most important part of a limo business.
-
 7. What is the capacity for a Sedan (passengers, luggage)?
     - the capacity of Sedan is  three passengers and three bags. During COVID-19 the limit was two passengers, some companies might still hold this policy. 
-
 8. What is the capacity for an SUV (passengers, luggage) ?
     - the capacity of standard SUV is 6 passengers and six 6 pieces of luggage.
-
 9. What is the capacity for Executive Van (passengers, luggage) ?
     - the capacity of a van is up to 13 passengers and 12 bags.
-
 10. What are some of the most common models for:
     1. SEDAN?
         1. Cadillac XTS
@@ -515,18 +487,16 @@
         2. Ford Transit.
 11. What are some of the larger vehicles than executive van?
     - Vehicles larger than a vans are mini-coaches and buses(party bus).
-
 12. What are some of the luxury vehicles used for proms, weddings, bachelor parties, etc?
     - Vehicles that are usually rented for proms and weddings are:
         - stretched limos.
         - party buses.
-
 - Children gear seats(check in in *Lymoanywhere*, add to *driver notes*: who provides the seat):
     1. forward facing(baby)
     2. rear facing(toddler)
     3. booster(child)
 
-  ---
+---
 
 # Vehicle Photos
 
