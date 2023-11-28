@@ -16,8 +16,6 @@
     - respond to calls, emails, messages/chat (cancellations and inquiries), no sales.
     - making books for the clients.
 
----
-
 # Vehicle Types
 
 - they have different luggage and passenger capacities:
@@ -59,8 +57,6 @@
     2. rear-facing(toddler)
     3. booster(child)
 
----
-
 # Drivers
 
 - types of drivers:
@@ -100,8 +96,6 @@
     - should let the office know if the driver left something.
     - if the driver can't find location might call to ask.
 - depending on the distance between the destination, we should check driver. If the ride is 2 hours long, we should check 3 hours before.
-
----
 
 # Affiliates
 
@@ -165,8 +159,6 @@
 - keep an eye on the drivers, rides, and their statuses.
 - if necessary reach to the driver to check the status if something is strange.
 - manual *FOT* is more tricky, because without *limoanywhere* it's harder to follow what is going on.
-
----
 
 # Service Types
 
@@ -249,8 +241,6 @@
 - drivers should help the client, assist with luggage, etc.
 - same it works with cruises(ship name, cruise line, cruise company).
 
----
-
 # Accounts
 
 - every client should have an account, it makes the job much easier.
@@ -269,8 +259,6 @@
             4. `Internal private notes`(only for agents): important notes about the clients e.g. doesn't like music.
             5. `Preferences` and `Notes for drivers`: drivers can see them, but it's a good idea to share these notes with drivers.
             6. In `Financial Data` section is where we enter credit card info.
-
----
 
 # Billing
 
@@ -309,8 +297,6 @@
 - *Direct Bill Invoice*
     - used when there are many rides, so we don't need to individually charge all the rides.
 
----
-
 # Reservation Notes
 
 - details about the booking that can be crucial.
@@ -331,8 +317,6 @@
 - only for agents, so drivers don't know about it.
 - it is about prices, payments.
 - dispatch notes and trip notes are available to affiliates(don't disclose markup or any kind of prices)
-
----
 
 # Flight Tracking
 
@@ -446,7 +430,6 @@ ___
 - *meet-and-greet*
 - *hourly service*
 - *point-to-point service*
-
 
 ---
 
