@@ -482,34 +482,34 @@
     - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
 
 2. What type of service does Global Bond provide?
-  - Global Bond provides customer support service to different companies within limo industry.
+    - Global Bond provides customer support service to different companies within limo industry.
 
 3. What are the main differences between the limo industry and taxi or *Uber* service?
-  - Companies from limo industry provide higher level of service than any company from taxi industry(vehicles, chauffeurs, customer support, custom tailored experience...). Limo companies provide substantially higher level of service for higher fees.
+    - Companies from limo industry provide higher level of service than any company from taxi industry(vehicles, chauffeurs, customer support, custom tailored experience...). Limo companies provide substantially higher level of service for higher fees.
 
 4. Who are the frequent users of the limo service (type of customers)?
-  - Corporations use limo service for their their business needs(executives, important guests), VIP(movie starts, singers, high-level public servants...), people who need not urgent medial attention(people with special needs), retail(private individuals for weddings, parties, etc.)...
+    - Corporations use limo service for their their business needs(executives, important guests), VIP(movie starts, singers, high-level public servants...), people who need not urgent medial attention(people with special needs), retail(private individuals for weddings, parties, etc.)...
 
 5. Who should initiate conversation in the vehicle, driver or customer?
-  - Customer can initiate the conversation, chauffeurs are not supposed to initiate conversation with the clients, just politely respond to the questions.
+    - Customer can initiate the conversation, chauffeurs are not supposed to initiate conversation with the clients, just politely respond to the questions.
 
 6. Describe the profile of an average black car service driver?
-  - Drivers are: 
-    - usually older(ex police officers, military backgrounds...)
-    - well prepared(they have prepared for the route before the actual trip, they need to make sure they have bottled water, wet wipes, newspaper/magazines, and all other necessities expected)
-    - responsible(make sure that the vehicle is pristine condition)
-    - patient and polite - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
-    - helpful(should open doors for clients, help with luggage)
-    - chauffeurs are the most important part of a limo business.
+    - Drivers are: 
+      - usually older(ex police officers, military backgrounds...)
+      - well prepared(they have prepared for the route before the actual trip, they need to make sure they have bottled water, wet wipes, newspaper/magazines, and all other necessities expected)
+      - responsible(make sure that the vehicle is pristine condition)
+      - patient and polite - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
+      - helpful(should open doors for clients, help with luggage)
+      - chauffeurs are the most important part of a limo business.
 
 7. What is the capacity for a Sedan (passengers, luggage)?
-  - the capacity of Sedan is  three passengers and three bags. During COVID-19 the limit was two passengers, some companies might still hold this policy. 
+    - the capacity of Sedan is  three passengers and three bags. During COVID-19 the limit was two passengers, some companies might still hold this policy. 
 
 8. What is the capacity for an SUV (passengers, luggage) ?
-  - the capacity of standard SUV is 6 passengers and six 6 pieces of luggage.
+    - the capacity of standard SUV is 6 passengers and six 6 pieces of luggage.
 
 9. What is the capacity for Executive Van (passengers, luggage) ?
-  - the capacity of a van is up to 13 passengers and 12 bags.
+    - the capacity of a van is up to 13 passengers and 12 bags.
 
 10. What are some of the most common models for:
     1. SEDAN?
@@ -528,19 +528,19 @@
         1. Mercedes Sprinter.
         2. Ford Transit.
 11. What are some of the larger vehicles than executive van?
-  - Vehicles larger than a vans are mini-coaches and buses(party bus).
+    - Vehicles larger than a vans are mini-coaches and buses(party bus).
 
 12. What are some of the luxury vehicles used for proms, weddings, bachelor parties, etc?
-  - Vehicles that are usually rented for proms and weddings are:
-    - stretched limos.
-    - party buses.
+    - Vehicles that are usually rented for proms and weddings are:
+        - stretched limos.
+        - party buses.
 
 - Children gear seats(check in in *Lymoanywhere*, add to *driver notes*: who provides the seat):
-  1. forward facing(baby)
-  2. rear facing(toddler)
-  3. booster(child)
+    1. forward facing(baby)
+    2. rear facing(toddler)
+    3. booster(child)
 
----
+  ---
 
 # Vehicle Photos
 
