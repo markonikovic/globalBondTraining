@@ -1,10 +1,5 @@
 # Globalbond General Notes
 
-- [*First Florida Limo*](https://firstfloridalimo.com/)
-- *meet greet*: Meet and greet, also known as Meet and assist, is an airport service that offers airport greeter, fast track services, access to airport lounges, buggy service, porter service, and more to help travelers avoid lengthy airport queues and forget the difficulties of tedious airport requirements.
-- *captain seats*: Captain Seat is a seat made for only one person. This type of seat is usually installed on the second row of seats, separating the right and left passengers. That means there are only two seats in the second or the middle row of the vehicle.
-- *bench seats*: A bench seat is a vehicle's version of a sofa or couch. A bench seat is made out of a cushion that spans the whole width of the car. Three persons can sit comfortably on this bench seat cushion. Bench seats are often seen in the back seat of a vehicle with two seating rows (front and rear).
-- *forward facing seats*:  forward-facing seats refer to seats in vehicles or other modes of transportation that are positioned to face the front of the vehicle. In the context of car seats or child seats, a forward-facing seat is one that is designed to be installed in a vehicle facing the front.
 - Advantages of black car service?
     - personalized service(pick up at the exact time and place)
     - comfort(luxurious vehicles)
@@ -17,8 +12,9 @@
     1. *corporate* - secretaries, need flexibility, don't care much about price, so the customer support is imperative(VIP).
     2. *retail* - private trips for themselves and family/friends.
     3. *NEMT*(non-emergent medical transportation)
-- Tasks?
-  - Calls, emails, messages/chat (cancellations and inquiries), no sales.
+- What are basic customer support tasks?
+    - respond to calls, emails, messages/chat (cancellations and inquiries), no sales.
+    - making books for the clients.
 
 ---
 
@@ -58,13 +54,17 @@
     - the purpose.
     - number of passengers.
     - luggage.
+- Children seats(check in in *Lymoanywhere*, add to *driver notes*: who provides the seat):
+    1. forward-facing(baby)
+    2. rear-facing(toddler)
+    3. booster(child)
 
 ---
 
 # Drivers
 
-- Types of drivers:
-    1. house:
+- types of drivers:
+    1. inhouse:
         - employed by the company - reliable, flexible, good communication(different languages) - drivers make the highest impression on customers.
         - have different schedules, work in shifts
     2. operators:
@@ -86,9 +86,6 @@
     - it's important to always know where is the driver.
     - drivers accept rides, they can set their own status in the app, in 50% of cases. When they don't it's necessary to call them.
     - communication should be kept simple.
-- software:
-    - *Limoanywhere*
-    - *Driveranywhere*
 - general requirements for the drivers:
     - be ahead of time(15/20 minutes).
     - communication between a driver and a client should be simple(let the client know when he is on location).
@@ -108,11 +105,11 @@
 
 # Affiliates
 
-- serious companies with a system, drivers, vehicles.
+- those are serious companies with a system, drivers, vehicles.
 - use them when rides cannot be covered - house drivers are busy.
 - there are many of them and they can be reached out in many ways.
 - How to choose affiliate:
-    1. Check Google reviews - usually the first signal of the attitude.
+    1. Check *Google* reviews - usually the first signal of the attitude.
         - Check working hours.
         - Check the quality of website - if it's outdated, it's a bad sign.
         - Call and ask for *all-inclusive(tax, tolls... - final rate)* affiliate rate, while letting them know that we call on behalf of limo company. - price is based on affiliate price. Point out that driver needs to represent *the company*, not affiliate.
@@ -127,35 +124,35 @@
         - after finding a company go to: view -> establish affiliate relationship.
         - after filtering the results based on requirements, research can be done(website, reviews, etc.)
         - Network requests can be seen in the *Network Request* page.
-    3. [NLA ride](https://www.nlaride.com/):
+    3. [*NLA ride*](https://www.nlaride.com/):
         - National Limo Association.
         - most of the firms are NLA members.
         - they are considered reliable.
-- *Farm-in(FIN)* - rent a drive to another company
-- *Farm-out(FOT)* - rent a drive from another company.
+- *Farm in(FIN)* - rent a drive to another company
+- *Farm out(FOT)* - rent a drive from another company.
 
 ### Farm-out procedure
 
 - in order to send a network request, the company must be in the system of *Limoanywhere*(`My Office -> Company Resources -> Affiliates`: there is a list of affiliates)
 - if the company doesn't have *Limoanywhere* use 'Add New Affiliate' section under `My Office -> Company Resources -> Affiliates`
 - after finding the drive we want to farm out:
-    1. set the FOT cost.
-    2. the name of affiliate.
-    3. select button farm-out.
+    1. set the *FOT* cost.
+    2. the name of the affiliate.
+    3. select button `farm-out`.
     4. if affiliate uses *Limoanywhere*:
         1. select *LA NET*.
         2. fill in the information about the affiliate and trip.
         3. choose vehicle type.
-        4. press complete to send the reservation.
-        5. affiliate should accept the drive.
+        4. press `Complete` to send the reservation.
+        5. affiliate should accept the ride.
     5. if affiliate doesn't use *Limoanywhere*:
         1. choose the affiliate(always check if the affiliate has *Limoanywhere*)
-        2. Use the button manually.
+        2. Use the button `Manually`.
         3. Send a message asking them if they will accept the job.
 - How to check if a drive is farmed out?
-    - The first indicator is FOT Type on Dispatch page.
-    - inhouse rides will have INH Type on Dispatch page.
-    - farmed in rides fill have FIN Type on Dispatch page.
+    - The first indicator is `FOT Type` on Dispatch page.
+    - inhouse rides will have `INH Type` on Dispatch page.
+    - farmed in rides fill have `FIN Type` on Dispatch page.
     - when the details are check it can be confirmed, the important information is reference number.
     - driver should update the status of the ride, so we should check with the driver.
     - driver's contact information are also available.
@@ -165,9 +162,9 @@
 
 ### Affiliate Work
 
-- keep an eye on the drivers/rides/statuses.
+- keep an eye on the drivers, rides, and their statuses.
 - if necessary reach to the driver to check the status if something is strange.
-- manual *FOT* is more tricky, because without limoanywhere it's harder to follow what is going on.
+- manual *FOT* is more tricky, because without *limoanywhere* it's harder to follow what is going on.
 
 ---
 
@@ -374,16 +371,6 @@
 
 ---
 
-# Useful Words and Terms
-
-- *affiliate trip sheet* - an email that contains the information about the trip.
-- *taxing* - the period while the airplane is parking, before it's officially at the gate.
-- *farm out(FOT)* - the driver has been rented from other company.
-- *farm in(FIN)* - the driver has been rented to another company.
-- *travel time*
-
----
-
 ## Important Notes
 
 - companies don't give refunds for unused service.
@@ -440,10 +427,26 @@
     - Vehicles that are usually rented for proms and weddings are:
         - stretched limos.
         - party buses.
-- Children gear seats(check in in *Lymoanywhere*, add to *driver notes*: who provides the seat):
-    1. forward facing(baby)
-    2. rear facing(toddler)
-    3. booster(child)
+___
+
+# Key Words and Acronyms
+
+- *NEMT*: non-emergent medical transportation.
+- *meet greet*: Meet and greet, also known as Meet and assist, is an airport service that offers airport greeter, fast track services, access to airport lounges, buggy service, porter service, and more to help travelers avoid lengthy airport queues and forget the difficulties of tedious airport requirements.
+- *captain seats*: Captain Seat is a seat made for only one person. This type of seat is usually installed on the second row of seats, separating the right and left passengers. That means there are only two seats in the second or the middle row of the vehicle.
+- *bench seats*: A bench seat is a vehicle's version of a sofa or couch. A bench seat is made out of a cushion that spans the whole width of the car. Three persons can sit comfortably on this bench seat cushion. Bench seats are often seen in the back seat of a vehicle with two seating rows (front and rear).
+- *forward facing seats*:  forward-facing seats refer to seats in vehicles or other modes of transportation that are positioned to face the front of the vehicle. In the context of car seats or child seats, a forward-facing seat is one that is designed to be installed in a vehicle facing the front.
+- *affiliate trip sheet*: an email that contains the information about the trip.
+- *taxing*: the period while the airplane is parking, before it's officially at the gate.
+- *farm out(FOT)*: the driver has been rented from other company.
+- *farm in(FIN)*: the driver has been rented to another company.
+- *travel time*
+- *FBO* - private aviation.
+- *curb-side pickup*
+- *meet-and-greet*
+- *hourly service*
+- *point-to-point service*
+
 
 ---
 
