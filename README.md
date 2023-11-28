@@ -501,7 +501,6 @@
     - patient and polite - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
     - helpful(should open doors for clients, help with luggage)
     - chauffeurs are the most important part of a limo business.
-
 7. What is the capacity for a Sedan (passengers, luggage)?
   - the capacity of Sedan is  three passengers and three bags. During COVID-19 the limit was two passengers, some companies might still hold this policy. 
 
@@ -512,13 +511,12 @@
   - the capacity of a van is up to 13 passengers and 12 bags.
 
 10. What are some of the most common models for:
-
-  1. SEDAN?
-    1. Cadillac XTS
-    2. Cadillac CT5
-    3. Chrysler 300
-    4. Mercedes(S-class - premium)
-    5. Mercedes(E-class - premium)
+  1.1. SEDAN?
+    1.1.1. Cadillac XTS
+    1.1.2. Cadillac CT5
+    1.1.3. Chrysler 300
+    1.1.4. Mercedes(S-class - premium)
+    1.1.5. Mercedes(E-class - premium)
 
   2. SUV?
     1. GMC Yukon
