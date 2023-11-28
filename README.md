@@ -434,59 +434,57 @@
 1. Explain in your own words what the limo industry is?
     - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
 1. What type of service does Global Bond provide?
-  - Global Bond provides customer support service to different companies within limo industry.
+    - Global Bond provides customer support service to different companies within limo industry.
 1. What are the main differences between the limo industry and taxi or *Uber* service?
-  - Companies from limo industry provide higher level of service than any company from taxi industry(vehicles, chauffeurs, customer support, custom tailored experience...). Limo companies provide substantially higher level of service for higher fees.
+    - Companies from limo industry provide higher level of service than any company from taxi industry(vehicles, chauffeurs, customer support, custom tailored experience...). Limo companies provide substantially higher level of service for higher fees.
 1. Who are the frequent users of the limo service (type of customers)?
-  - Corporations use limo service for their their business needs(executives, important guests), VIP(movie starts, singers, high-level public servants...), people who need not urgent medial attention(people with special needs), retail(private individuals for weddings, parties, etc.)...
+    - Corporations use limo service for their their business needs(executives, important guests), VIP(movie starts, singers, high-level public servants...), people who need not urgent medial attention(people with special needs), retail(private individuals for weddings, parties, etc.)...
 1. Who should initiate conversation in the vehicle, driver or customer?
-  - Customer can initiate the conversation, chauffeurs are not supposed to initiate conversation with the clients, just politely respond to the questions.
+    - Customer can initiate the conversation, chauffeurs are not supposed to initiate conversation with the clients, just politely respond to the questions.
 1. Describe the profile of an average black car service driver?
-  - Drivers are: 
-    - usually older drivers(ex police officers, military backgrounds...)
-    - well prepared(they have prepared for the route before the actual trip, they need to make sure they have bottled water, wet wipes, newspaper/magazines, and all other necessities expected)
-    - responsible(make sure that the vehicle is pristine condition)
-    - patient and polite
-    - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
-    - helpful(should open doors for clients, help with luggage)
-    - chauffeurs are the most important part of a limo business.
+    - Drivers are: 
+      - usually older drivers(ex police officers, military backgrounds...)
+      - well prepared(they have prepared for the route before the actual trip, they need to make sure they have bottled water, wet wipes, newspaper/magazines, and all other necessities expected)
+      - responsible(make sure that the vehicle is pristine condition)
+      - patient and polite - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
+      - helpful(should open doors for clients, help with luggage)
+      - chauffeurs are the most important part of a limo business.
 1. What is the capacity for a Sedan (passengers, luggage)?
-  - the capacity of Sedan is  three passengers and three bags. During COVID-19 the limit was two passengers, some companies might still hold this policy. 
+    - the capacity of Sedan is  three passengers and three bags. During COVID-19 the limit was two passengers, some companies might still hold this policy. 
 1. What is the capacity for an SUV (passengers, luggage) ?
-  - the capacity of standard SUV is 6 passengers and six 6 pieces of luggage.
+    - the capacity of standard SUV is 6 passengers and six 6 pieces of luggage.
 1. What is the capacity for Executive Van (passengers, luggage) ?
-  - the capacity of a van is up to 13 passengers and 12 bags.
+    - the capacity of a van is up to 13 passengers and 12 bags.
 1. What are some of the most common models for:
-  1. SEDAN?
-    - Common models of SEDAN are:
-      1. Cadillac XTS
-      1. Cadillac CT5
-      1. Chrysler 300
-      1. Mercedes(S-class - premium)
-      1. Mercedes(E-class - premium)
-  1. SUV?
-    - Common models of SUV are:
-      1. GMC Yukon
-      1. Chevrolet Suburban
-      1. Lincoln Navigator
-      1. Ford Expedition
-      1. Cadillac Escalade(premium)
-  1. Executive VAN?
-    - Common models of VAN are:
-      1. Mercedes Sprinter.
-      1. Ford Transit.
-
+    1. SEDAN?
+        - Common models of SEDAN are:
+        1. Cadillac XTS
+        1. Cadillac CT5
+        1. Chrysler 300
+        1. Mercedes(S-class - premium)
+        1. Mercedes(E-class - premium)
+    1. SUV?
+        - Common models of SUV are:
+        1. GMC Yukon
+        1. Chevrolet Suburban
+        1. Lincoln Navigator
+        1. Ford Expedition
+        1. Cadillac Escalade(premium)
+    1. Executive VAN?
+        - Common models of VAN are:
+        1. Mercedes Sprinter.
+        1. Ford Transit.
   1.What are some of the larger vehicles than executive van?
-    - Vehicles larger than a vans are mini-coaches and buses(party bus).
+      - Vehicles larger than a vans are mini-coaches and buses(party bus).
   1.What are some of the luxury vehicles used for proms, weddings, bachelor parties, etc?
-    - Vehicles that are usually rented for proms and weddings are:
-      - stretched limos.
-      - party buses.
+      - Vehicles that are usually rented for proms and weddings are:
+        - stretched limos.
+        - party buses.
 
 - Children gear seats(check in in *Lymoanywhere*, add to *driver notes*: who provides the seat):
-  1. forward facing(baby)
-  1. rear facing(toddler)
-  1. booster(child)
+    1. forward facing(baby)
+    1. rear facing(toddler)
+    1. booster(child)
 
 ---
 
