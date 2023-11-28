@@ -117,25 +117,25 @@
 - use them when rides cannot be covered - house drivers are busy.
 - there are many of them and they can be reached out in many ways.
 - How to choose affiliate:
-1. Check Google reviews - usually the first signal of the attitude.
-    - Check working hours.
-    - Check the quality of website - if it's outdated, it's a bad sign.
-    - Call and ask for *all-inclusive(tax, tolls... - final rate)* affiliate rate, while letting them know that we call on behalf of limo company. - price is based on affiliate price. Point out that driver needs to represent *the company*, not affiliate.
-    - price is based on affiliate price, so before giving a price to the client, it's necessary to get the affiliate price.
-    - a driver needs to represent the company which dispatched him, he is not allowed to promote the affiliate company in any way.
-    - the total price is: affiliate price + markup price.
-    - to book affiliate drive we need to provide company's credit card info.
-    - send email to affiliate(drive detail, affiliate price).
-2. Use *Limoanywhere*:
-    - if affiliate uses `Limoanywhere`.
-    - Network -> Locate Affiliates -> Country Selection
-    - after finding a company go to: view -> establish affiliate relationship.
-    - after filtering the results based on requirements, research can be done(website, reviews, etc.)
-    - Network requests can be seen in the *Network Request* page.
-3. [NLA ride](https://www.nlaride.com/):
-    - National Limo Association.
-    - most of the firms are NLA members.
-    - they are considered reliable.
+    1. Check Google reviews - usually the first signal of the attitude.
+        - Check working hours.
+        - Check the quality of website - if it's outdated, it's a bad sign.
+        - Call and ask for *all-inclusive(tax, tolls... - final rate)* affiliate rate, while letting them know that we call on behalf of limo company. - price is based on affiliate price. Point out that driver needs to represent *the company*, not affiliate.
+        - price is based on affiliate price, so before giving a price to the client, it's necessary to get the affiliate price.
+        - a driver needs to represent the company which dispatched him, he is not allowed to promote the affiliate company in any way.
+        - the total price is: affiliate price + markup price.
+        - to book affiliate drive we need to provide company's credit card info.
+        - send email to affiliate(drive detail, affiliate price).
+    2. Use *Limoanywhere*:
+        - if affiliate uses `Limoanywhere`.
+        - Network -> Locate Affiliates -> Country Selection
+        - after finding a company go to: view -> establish affiliate relationship.
+        - after filtering the results based on requirements, research can be done(website, reviews, etc.)
+        - Network requests can be seen in the *Network Request* page.
+    3. [NLA ride](https://www.nlaride.com/):
+        - National Limo Association.
+        - most of the firms are NLA members.
+        - they are considered reliable.
 - *Farm-in(FIN)* - rent a drive to another company
 - *Farm-out(FOT)* - rent a drive from another company.
 
