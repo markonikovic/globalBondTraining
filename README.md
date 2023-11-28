@@ -12,17 +12,17 @@
 
 - Advantages of black car service?
     - personalized service(pick up at the exact time and place)
-  - comfort(luxurious vehicles)
-  - cleanliness(of vehicles, drivers with professional attires)
-  - VIP class of drivers(educated, experienced drivers)
-  - perfect service
-  - great customer support(bookings with special request)
-  - secure(good background check)
+    - comfort(luxurious vehicles)
+    - cleanliness(of vehicles, drivers with professional attires)
+    - VIP class of drivers(educated, experienced drivers)
+    - perfect service
+    - great customer support(bookings with special request)
+    - secure(good background check)
 
 - What types of clients are we working with?
-  1. *corporate* - secretaries, need flexibility, don't care much about price, so the customer support is imperative(VIP).
-  2. *retail* - private trips for themselves and family/friends.
-  3. *NEMT*(non-emergent medical transportation)
+    1. *corporate* - secretaries, need flexibility, don't care much about price, so the customer support is imperative(VIP).
+    2. *retail* - private trips for themselves and family/friends.
+    3. *NEMT*(non-emergent medical transportation)
 
 - Tasks?
   - Calls, emails, messages/chat (cancellations and inquiries), no sales.
