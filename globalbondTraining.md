@@ -488,47 +488,48 @@
 
 ### Sedan  Cadillac CT5
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/sedan_cadillac_ct5.jpg)
+![](cars/sedan_cadillac_ct5.jpg)
 
 ### Sedan Mercedes E
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/sedan_mercedes_e.jpg)
+
+![](cars/sedan_mercedes_e.jpg)
 
 ### SUV GMC Yukon
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/suv_gmc_yukon.jpg)
+![](cars/suv_gmc_yukon.jpg)
 
 ### Sedan Cadillac XTS
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/sedan_cadillac_xts.jpg)
+![](cars/sedan_cadillac_xts.jpg)
 
 ### SUV Cadillac Escalade
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/suv_cadillac_escalade.jpg)
+![](cars/suv_cadillac_escalade.jpg)
 
 ### SUV Lincoln Navigator
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/suv_lincoln_navigator.jpg)
+![](cars/suv_lincoln_navigator.jpg)
 
 ### Sedan Chrysler 300
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/sedan_chrysler_300.jpg)
+![](cars/sedan_chrysler_300.jpg)
 
 ### SUV Chevrolet Suburban
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/suv_chevrolet_suburban.jpg)
+![](cars/suv_chevrolet_suburban.jpg)
 
 ### Van Ford Transit
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/van_ford_transit.jpg)
+![](cars/van_ford_transit.jpg)
 
 ### Sedan Mercedes S
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/sedan_mercedes_s.jpg)
+![](cars/sedan_mercedes_s.jpg)
 
 ### SUV Ford Expedition
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/suv_ford_expedition.jpg)
+![](cars/suv_ford_expedition.jpg)
 
 ### Van Mercedes Sprinter
 
-![](/home/marko/repos/github.com/markonikovic/globalbond/cars/van_mercedes_sprinter.jpg)
+![](cars/van_mercedes_sprinter.jpg)
