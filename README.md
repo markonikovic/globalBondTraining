@@ -305,14 +305,14 @@
     1. trip notes
     2. dispatch notes
 
-## Trip Notes
+### Trip Notes
 
 - available to everyone(agents, drivers, clients).
 - it's especially useful for drivers.
 - no actual prices in trip notes.
 - important notes(keep a mask on, help the client...)
 
-## Dispatch Notes
+### Dispatch Notes
 
 - only for agents, so drivers don't know about it.
 - it is about prices, payments.
@@ -333,7 +333,7 @@
 - pickup time depends on the time of the day as well, so always use *arrived by* option, instead of *leave now*.
 - on existing reservation it's possible to use *mapping* from *Limoanywhere*.
 
-## Quotes
+# Quotes
 
 - section after Accounts in **Lymoanywhere**
 - quote(price inquiry):
@@ -351,7 +351,7 @@
     - It's best to use *Edit Quote* option to edit the quote.
     - *Email Quote* is used to send quote to the client.
 
-## Important Notes
+# Important Notes
 
 - companies don't give refunds for unused service.
 - any extra hour is charged additionally.
