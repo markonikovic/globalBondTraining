@@ -22,35 +22,35 @@
 
 ---
 
-# Vehicle types
+# Vehicle Types
 
 - they have different luggage and passenger capacities:
-1. **standard sedan**:
-    - 3 passengers / 3 bags(during COVID-19, capacity was 2 - backseats). 
-    - *models*:
-        1. Cadillac XTS
-        2. Cadillac CT5
-        3. Chrysler 300
-        4. Mercedes(S-class - premium)
-        5. Mercedes(E-class - premium)
-2. **standard SUV**:
-    - up to 6 people and six bags(depends on the capacity of bags).
-    - *models*:
-        1. GMC Yukon
-        2. Chevrolet Suburban
-        3. Lincoln Navigator
-        4. Ford Expedition
-        5. Cadillac Escalade(premium)
-3. **van**:
-    - has forward facing seats  - standard 13 passengers / 12 bags. There are custom sprinters for custom trips so capacity might vary.
-    - *models*:
-        1. Mercedes Sprinter
-        2. Ford Transit.
-        - Note: There is a sprinter limo, looks the same, but instead of forward facing seats has a different/limo seats.
+    1. **standard sedan**:
+        - 3 passengers / 3 bags(during COVID-19, capacity was 2 - backseats). 
+        - *models*:
+            1. Cadillac XTS
+            2. Cadillac CT5
+            3. Chrysler 300
+            4. Mercedes(S-class - premium)
+            5. Mercedes(E-class - premium)
+    2. **standard SUV**:
+        - up to 6 people and six bags(depends on the capacity of bags).
+        - *models*:
+            1. GMC Yukon
+            2. Chevrolet Suburban
+            3. Lincoln Navigator
+            4. Ford Expedition
+            5. Cadillac Escalade(premium)
+    3. **van**:
+        - has forward facing seats  - standard 13 passengers / 12 bags. There are custom sprinters for custom trips so capacity might vary.
+        - *models*:
+            1. Mercedes Sprinter
+            2. Ford Transit.
+            - Note: There is a sprinter limo, looks the same, but instead of forward facing seats has a different/limo seats.
 
-4. *mini-coach*: 18-26 passengers / 18-26 luggage capacity
-5. *coach bus*: 54-56 / 50 luggage capacity.
-6. *stretch limo*: 7/10 depends on the limo.
+    4. *mini-coach*: 18-26 passengers / 18-26 luggage capacity
+    5. *coach bus*: 54-56 / 50 luggage capacity.
+    6. *stretch limo*: 7/10 depends on the limo.
 - When to use party buses and stretch limos?
     - proms
     - weddings
