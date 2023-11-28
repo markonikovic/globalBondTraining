@@ -515,7 +515,6 @@
   1. SEDAN?
     1. Cadillac XTS
     2. Cadillac CT5
-    ![](cars/sedan_cadillac_ct5.jpg)
     3. Chrysler 300
     4. Mercedes(S-class - premium)
     5. Mercedes(E-class - premium)
