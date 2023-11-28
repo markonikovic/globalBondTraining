@@ -329,24 +329,19 @@
 # Billing
 
 - most of the companies accept credit cards only, they don't accept cash payments because there are no cash transactions.
-
 - credit cards are sometimes charged ahead of time, especially when the charge is higher(put funds on hold, or charge in advance).
-
 - for basic requests are usually charged 24 before, or after service, it depends on the limo company and their internal politics.
-
 - types of cards(begins with):
     - American Express(3)
     - VISA(4)
     - MasterCard(5)
     - Discover(6)
-
 - the important card information:
     - credit card numbers
     - expiration date
     - card type(personal or business) - sometimes clients want to alternate between these types of cards, depending on the purpose of the drive)
     - full billing address
     - security code(*Credit Card Notes*)
-
 - How to charge a client?
     1. Visit `Edit reservation` page of the particular ride.
     2. Visit `Payment` page.
@@ -354,20 +349,17 @@
     4. the next choose `Authorize and Capture` option.
     5. `Submit` the request.
     6. After a customer is charged, receipt is usually sent automatically, but again, depending on the company, sometimes it needs to be done manually.
-
 - How to hold the funds?
     1. go to `Edit Reservation`
     2. Visit `Payment` page.
     3. to put money on hold use `Authorize` option and select the amount of money to hold.
     4. Press `Submit`.
     5. Then press `Capture`, to charge the remaining amount of funds.
-
 - How to do the refund?
     1. in `Edit Reservation`
     2. Visit `Payment` page, 
     3. use the `Void` button to void the charge..
     4. if the charge was already approved `Credit` button should be used so that clients funds are credited within seven days.
-
 - *Direct Bill Invoice*
     - used when there are many rides, so we don't need to individually charge all the rides.
 
