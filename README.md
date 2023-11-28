@@ -479,7 +479,7 @@
 # Part I Questions & Answers
 
 1. Explain in your own words what the limo industry is?
-  - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
+    - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
 
 2. What type of service does Global Bond provide?
   - Global Bond provides customer support service to different companies within limo industry.
@@ -527,10 +527,10 @@
     1. Executive VAN?
         1. Mercedes Sprinter.
         2. Ford Transit.
-11.What are some of the larger vehicles than executive van?
+11. What are some of the larger vehicles than executive van?
   - Vehicles larger than a vans are mini-coaches and buses(party bus).
 
-12.What are some of the luxury vehicles used for proms, weddings, bachelor parties, etc?
+12. What are some of the luxury vehicles used for proms, weddings, bachelor parties, etc?
   - Vehicles that are usually rented for proms and weddings are:
     - stretched limos.
     - party buses.
