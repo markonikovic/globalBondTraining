@@ -17,9 +17,9 @@
   - secure(good background check)
 
 - What types of clients are we working with?
-  1. corporate - secretaries, need flexibility, don't care much about price, so the customer support is imperative(VIP).
-  1. retail - private trips for themselves and family/friends.
-  1. NEMT(non-emergent medical transportation)
+  1. *corporate* - secretaries, need flexibility, don't care much about price, so the customer support is imperative(VIP).
+  1. *retail* - private trips for themselves and family/friends.
+  1. *NEMT*(non-emergent medical transportation)
 
 - Tasks?
   1. Calls, emails, messages/chat (cancellations and inquiries), no sales.
@@ -45,13 +45,15 @@
       1. Lincoln Navigator
       1. Ford Expedition
       1. Cadillac Escalade(premium)
-  1. **sprinter van**:
-    - has forward facing seats  - standard 13 passengers / 12 bags. There are custom sprinters for custom trips so capacity might vary. 
+  1. **van**:
+    - has forward facing seats  - standard 13 passengers / 12 bags. There are custom sprinters for custom trips so capacity might vary.
     - *models*:
       1. Mercedes Sprinter
       1. Ford Transit.
     - Note: There is a sprinter limo, looks the same, but instead of forward facing seats has a different/limo seats.
-  1. mini-coach: 18-26 passengers / 18-26 luggage capacity
+  1. *mini-coach*: 18-26 passengers / 18-26 luggage capacity
+  1. *coach bus*: 54-56 / 50 luggage capacity.
+  1. *stretch limo*: 7/10 depends on the limo.
 
 - When to use party buses and stretch limos?
   - proms
@@ -59,10 +61,9 @@
   - bachelors/bachelorette party
 
 - When deciding which vehicle/the price to select consider?
-  - The purpose
+  - the purpose
   - number of passengers
   - luggage
-  - nights out
 
 ---
 
@@ -91,7 +92,7 @@
   - text to help drivers with location, passenger names.
   - it's important to always know where is the driver.
   - drivers accept rides, they can set their own status in the app, in 50% of cases. When they don't it's necessary to call them.
-  - communication should be kept simple
+  - communication should be kept simple.
 
 - software:
   - *Limoanywhere*
@@ -132,7 +133,7 @@
     - to book affiliate drive we need to provide company's credit card info.
     - send email to affiliate(drive detail, affiliate price).
   2. Use *Limoanywhere*:
-    - if affiliate uses `Limoanyware`.
+    - if affiliate uses `Limoanywhere`.
     - Network -> Locate Affiliates -> Country Selection
     - after finding a company go to: view -> establish affiliate relationship.
     - after filtering the results based on requirements, research can be done(website, reviews, etc.)
@@ -180,7 +181,7 @@
 
 - keep an eye on the drivers/rides/statuses.
 - if necessary reach to the driver to check the status if something is strange.
-- manual *FOU* is more tricky, because without limoanywhere it's harder to follow what is going on.
+- manual *FOT* is more tricky, because without limoanywhere it's harder to follow what is going on.
 
 ---
 
@@ -240,9 +241,9 @@
 - driver needs to be at location before
 
 - the client has two options to meet the driver:
-1. *curb side pickup(free-of-charge)* 
+1. *curb side pickup(free-of-charge)*
   - client needs to bring the luggage where the driver is parked(driver is supposed to help client navigate). - driver needs to have a board name(board sign).
-1. *meet and greet* 
+1. *meet and greet*
   - clients can hire driver to help them get the luggage, escort them to the vehicle, etc.  - driver needs to have a name sign.
   - greeter can he hired if the airport doesn't allow drivers to leave vehicles unattended.
 
@@ -322,7 +323,7 @@
   1. `Submit` the request.
   1. After a customer is charged, receipt is usually sent automatically, but again, depending on the company, sometimes it needs to be done manually.
 
-- Ho to hold the funds?
+- How to hold the funds?
   1. go to `Edit Reservation`
   1. Visit `Payment` page.
   1. to put money on hold use `Authorize` option and select the amount of money to hold.
@@ -381,7 +382,6 @@
 - it's good to add 10-15 minutes of additional time, depending on the distance.
 - on existing reservation it's possible to use *mapping* from *Limoanywhere*.
 
-
 ## Quotes
 
 - section after Accounts in **Lymoanywhere**
@@ -432,7 +432,8 @@
 # Part I Questions & Answers
 
 1. Explain in your own words what the limo industry is?
-  - it's an industry that provides a high level chaffer service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
+  - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
+
 1. What type of service does Global Bond provide?
   - Global Bond provides customer support service to different companies within limo industry.
 1. What are the main differences between the limo industry and taxi or *Uber* service?
@@ -475,12 +476,18 @@
     - Common models of VAN are:
       1. Mercedes Sprinter.
       1. Ford Transit.
-  1.What are some of the larger vehicles than executive Van?
+
+  1.What are some of the larger vehicles than executive van?
     - Vehicles larger than a vans are mini-coaches and buses(party bus).
   1.What are some of the luxury vehicles used for proms, weddings, bachelor parties, etc?
     - Vehicles that are usually rented for proms and weddings are:
       - stretched limos.
       - party buses.
+
+- Children gear seats(check in in *Lymoanywhere*, add to *driver notes*: who provides the seat):
+  1. forward facing(baby)
+  1. rear facing(toddler)
+  1. booster(child)
 
 ---
 
