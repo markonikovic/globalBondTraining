@@ -512,18 +512,21 @@
   - the capacity of a van is up to 13 passengers and 12 bags.
 
 10. What are some of the most common models for:
-    1. SEDAN?
-      1. Cadillac XTS
-      2. Cadillac CT5
-      3. Chrysler 300
-      4. Mercedes(S-class - premium)
-      5. Mercedes(E-class - premium)
+
+  1. SEDAN?
+    1. Cadillac XTS
+    2. Cadillac CT5
+    3. Chrysler 300
+    4. Mercedes(S-class - premium)
+    5. Mercedes(E-class - premium)
+
   2. SUV?
     1. GMC Yukon
     2. Chevrolet Suburban
     3. Lincoln Navigator
     4. Ford Expedition
     5. Cadillac Escalade(premium)
+
   3. Executive VAN?
     1. Mercedes Sprinter.
     2. Ford Transit.
