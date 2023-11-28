@@ -452,6 +452,8 @@ ___
 
 # Vehicle Photos
 
+## Sedans:
+
 ### Sedan  Cadillac CT5
 
 ![](cars/sedan_cadillac_ct5.jpg)
@@ -460,13 +462,23 @@ ___
 
 ![](cars/sedan_mercedes_e.jpg)
 
-### SUV GMC Yukon
-
-![](cars/suv_gmc_yukon.jpg)
-
 ### Sedan Cadillac XTS
 
 ![](cars/sedan_cadillac_xts.jpg)
+
+### Sedan Mercedes S
+
+![](cars/sedan_mercedes_s.jpg)
+
+### Sedan Chrysler 300
+
+![](cars/sedan_chrysler_300.jpg)
+
+## SUVs
+
+### SUV GMC Yukon
+
+![](cars/suv_gmc_yukon.jpg)
 
 ### SUV Cadillac Escalade
 
@@ -476,25 +488,19 @@ ___
 
 ![](cars/suv_lincoln_navigator.jpg)
 
-### Sedan Chrysler 300
-
-![](cars/sedan_chrysler_300.jpg)
-
 ### SUV Chevrolet Suburban
 
 ![](cars/suv_chevrolet_suburban.jpg)
 
-### Van Ford Transit
-
-![](cars/van_ford_transit.jpg)
-
-### Sedan Mercedes S
-
-![](cars/sedan_mercedes_s.jpg)
-
 ### SUV Ford Expedition
 
 ![](cars/suv_ford_expedition.jpg)
+
+## VANs
+
+### Van Ford Transit
+
+![](cars/van_ford_transit.jpg)
 
 ### Van Mercedes Sprinter
 
