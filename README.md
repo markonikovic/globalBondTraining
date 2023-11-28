@@ -65,19 +65,19 @@
 # Drivers
 
 - Types of drivers:
-1. house:
-    - employed by the company - reliable, flexible, good communication(different languages) - drivers make the highest impression on customers.
-    - have different schedules, work in shifts
-2. operators:
-    - used when house drivers are not available.
-    - licensed/have their vehicles
-    - have their own clients but also wort together with limo companies.
-    - they represent the limo company that dispatched them.
-3. affiliated:
-    - they are also second choice.
-    - it's a company that has own drivers.
-    - they are usually more expensive.
-    - check review and availability on software the company uses.
+    1. house:
+        - employed by the company - reliable, flexible, good communication(different languages) - drivers make the highest impression on customers.
+        - have different schedules, work in shifts
+    2. operators:
+        - used when house drivers are not available.
+        - licensed/have their vehicles
+        - have their own clients but also wort together with limo companies.
+        - they represent the limo company that dispatched them.
+    3. affiliated:
+        - they are also second choice.
+        - it's a company that has own drivers.
+        - they are usually more expensive.
+        - check review and availability on software the company uses.
 
 - communication:
     - through official software.
@@ -114,13 +114,9 @@
 # Affiliates
 
 - serious companies with a system, drivers, vehicles.
-
 - use them when rides cannot be covered - house drivers are busy.
-
 - there are many of them and they can be reached out in many ways.
-
 - How to choose affiliate:
-
 1. Check Google reviews - usually the first signal of the attitude.
     - Check working hours.
     - Check the quality of website - if it's outdated, it's a bad sign.
@@ -130,43 +126,37 @@
     - the total price is: affiliate price + markup price.
     - to book affiliate drive we need to provide company's credit card info.
     - send email to affiliate(drive detail, affiliate price).
-
 2. Use *Limoanywhere*:
     - if affiliate uses `Limoanywhere`.
     - Network -> Locate Affiliates -> Country Selection
     - after finding a company go to: view -> establish affiliate relationship.
     - after filtering the results based on requirements, research can be done(website, reviews, etc.)
     - Network requests can be seen in the *Network Request* page.
-
 3. [NLA ride](https://www.nlaride.com/):
     - National Limo Association.
     - most of the firms are NLA members.
     - they are considered reliable.
-
 - *Farm-in(FIN)* - rent a drive to another company
 - *Farm-out(FOT)* - rent a drive from another company.
 
 ### Farm-out procedure
 
 - in order to send a network request, the company must be in the system of *Limoanywhere*(`My Office -> Company Resources -> Affiliates`: there is a list of affiliates)
-
 - if the company doesn't have *Limoanywhere* use 'Add New Affiliate' section under `My Office -> Company Resources -> Affiliates`
-
 - after finding the drive we want to farm out:
-1. set the FOT cost.
-2. the name of affiliate.
-3. select button farm-out.
-4. if affiliate uses *Limoanywhere*:
-    1. select *LA NET*.
-    2. fill in the information about the affiliate and trip.
-    3. choose vehicle type.
-    4. press complete to send the reservation.
-    5. affiliate should accept the drive.
-5. if affiliate doesn't use *Limoanywhere*:
-    1. choose the affiliate(always check if the affiliate has *Limoanywhere*)
-    2. Use the button manually.
-    3. Send a message asking them if they will accept the job.
-
+    1. set the FOT cost.
+    2. the name of affiliate.
+    3. select button farm-out.
+    4. if affiliate uses *Limoanywhere*:
+        1. select *LA NET*.
+        2. fill in the information about the affiliate and trip.
+        3. choose vehicle type.
+        4. press complete to send the reservation.
+        5. affiliate should accept the drive.
+    5. if affiliate doesn't use *Limoanywhere*:
+        1. choose the affiliate(always check if the affiliate has *Limoanywhere*)
+        2. Use the button manually.
+        3. Send a message asking them if they will accept the job.
 - How to check if a drive is farmed out?
     - The first indicator is FOT Type on Dispatch page.
     - inhouse rides will have INH Type on Dispatch page.
@@ -176,15 +166,12 @@
     - driver's contact information are also available.
     - check the driver just-in-case, there should be communication.
     - it can be seen if the ride was farmed out using *LA Net* or *Manual*.
-
 - if the company uses *Limoanywhere* we will be able to see the statuses of the FOT rides.
 
 ### Affiliate Work
 
 - keep an eye on the drivers/rides/statuses.
-
 - if necessary reach to the driver to check the status if something is strange.
-
 - manual *FOT* is more tricky, because without limoanywhere it's harder to follow what is going on.
 
 ---
@@ -192,8 +179,8 @@
 # Service Types
 
 - services:
-1. hourly
-2. point-to-point
+    1. hourly
+    2. point-to-point
 
 ### Hourly Service
 
@@ -201,22 +188,18 @@
     - road show
     - hour service
     - garage-to-garage
-
 - What is *garage to garage* principle?
     - The hours start when the driver leaves the base until it returns the base.
     - It's important to let the client know what it means.
-
 - What is *hourly service*?
     - hour service is important when there are multiple stops with more than 20 minutes wait time. We don't charge stop that are maid, while transfers are paid per stop.
     - a driver is at disposal.
     - there is an hourly minimals(3/4 hour minimum SUV, VANS 4 hour minimum, etc.).
     - typical for events(weddings, nights out, etc.).
     - service starts when the client leaves the base and until it leaves, garage-to-garage.
-
 - What is *road show*?
     - usually used by corporate clients who need to visit a lot of places.
     - sight seeing.
-
 - What is *as directed* service?
     - it's when a client just wants to ride around the city.
 
@@ -225,13 +208,11 @@
 #### One way
 
 - it's direct one way transport, there is a *pick up* location and *drop off* location.
-
 - it's a common type of service.
 
 #### Round Trip
 
 - it's the transportation to the destination and back.
-
 - common type of service.
 
 #### Airport Service
@@ -241,15 +222,10 @@
 ##### From Airport Service
 
 - get flight info(airline company and flight number) - the flights need to be monitored(using different software *flightaware*).
-
 - the driver needs to be there regardless of the flight delay.
-
 - clients often don't have the flight number so based on, the name of an airline, departure location, departure time, and destination, the flight number can be researched.
-
 - we need to know when the flight is at gate - for domestic flights client has 30 minutes free-of-charge since the plane is at the gate, 60 minutes for international flights.
-
 - driver needs to be at location before
-
 - the client has two options to meet the driver:
     1. *curb side pickup(free-of-charge)*
         - client needs to bring the luggage where the driver is parked(driver is supposed to help client navigate). - driver needs to have a board name(board sign).
@@ -260,37 +236,25 @@
 ##### To Airport Service
 
 - check if the flight is domestic(2 hours before the departure) or international(3 hours before the departure).
-
 - it's not necessary to follow the status of these flights.
 
 #### Private Jet Aviation Service
 
 - flight info is necessary(tail number).
-
 - *FBO* - private aviation.
-
 - they are often confidential and cannot be traced.
-
 - driver waits for the client at the piste.
-
 - they use international and smaller/local airports.
-
 - can be from and to airport.
-
 - *Signature Flight Support* - a company that provides such services.
-
 - drivers should be around 20 minutes before the departure.  
 
 #### Pick ups/drop offs from train station
 
 - get the train number
-
 - *mtracksite* can be used to follow the arrival time of the train.
-
 - wait time is from 10-15 minutes except from the airports.
-
 - drivers should help the client, assist with luggage, etc.
-
 - same it works with cruises(ship name, cruise line, cruise company).
 
 ---
