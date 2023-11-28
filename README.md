@@ -308,11 +308,8 @@
 # Accounts
 
 - every client should have an account, it makes the job much easier.
-
 - info such as address, name, credit cards, etc. call be automatically populated from accounts.
-
 - customer without accounts are considered *guests*.
-
 - How to create an account?
     - there are two options:
         1. Through already existing reservation:
