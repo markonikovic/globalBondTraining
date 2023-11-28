@@ -1,15 +1,10 @@
 # Globalbond General Notes
 
 - [*First Florida Limo*](https://firstfloridalimo.com/)
-
 - *meet greet*: Meet and greet, also known as Meet and assist, is an airport service that offers airport greeter, fast track services, access to airport lounges, buggy service, porter service, and more to help travelers avoid lengthy airport queues and forget the difficulties of tedious airport requirements.
-
 - *captain seats*: Captain Seat is a seat made for only one person. This type of seat is usually installed on the second row of seats, separating the right and left passengers. That means there are only two seats in the second or the middle row of the vehicle.
-
 - *bench seats*: A bench seat is a vehicle's version of a sofa or couch. A bench seat is made out of a cushion that spans the whole width of the car. Three persons can sit comfortably on this bench seat cushion. Bench seats are often seen in the back seat of a vehicle with two seating rows (front and rear).
-
 - *forward facing seats*:  forward-facing seats refer to seats in vehicles or other modes of transportation that are positioned to face the front of the vehicle. In the context of car seats or child seats, a forward-facing seat is one that is designed to be installed in a vehicle facing the front.
-
 - Advantages of black car service?
     - personalized service(pick up at the exact time and place)
     - comfort(luxurious vehicles)
@@ -18,12 +13,10 @@
     - perfect service
     - great customer support(bookings with special request)
     - secure(good background check)
-
 - What types of clients are we working with?
     1. *corporate* - secretaries, need flexibility, don't care much about price, so the customer support is imperative(VIP).
     2. *retail* - private trips for themselves and family/friends.
     3. *NEMT*(non-emergent medical transportation)
-
 - Tasks?
   - Calls, emails, messages/chat (cancellations and inquiries), no sales.
 
@@ -32,7 +25,6 @@
 # Vehicle types
 
 - they have different luggage and passenger capacities:
-
 1. **standard sedan**:
     - 3 passengers / 3 bags(during COVID-19, capacity was 2 - backseats). 
     - *models*:
@@ -59,12 +51,10 @@
 4. *mini-coach*: 18-26 passengers / 18-26 luggage capacity
 5. *coach bus*: 54-56 / 50 luggage capacity.
 6. *stretch limo*: 7/10 depends on the limo.
-
 - When to use party buses and stretch limos?
     - proms
     - weddings
     - bachelors/bachelorette party
-
 - When deciding which vehicle/the price to select consider?
     - the purpose
     - number of passengers
