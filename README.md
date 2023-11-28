@@ -31,94 +31,91 @@
 
 # Vehicle types
 
-- depends on the luggage and passenger capacity:
-  1. **standard sedan**:
+- they have different luggage and passenger capacities:
+
+1. **standard sedan**:
     - 3 passengers / 3 bags(during COVID-19, capacity was 2 - backseats). 
     - *models*:
-      1. Cadillac XTS
-      2. Cadillac CT5
-      3. Chrysler 300
-      4. Mercedes(S-class - premium)
-      5. Mercedes(E-class - premium)
-
-  2. **standard SUV**:
+        1. Cadillac XTS
+        2. Cadillac CT5
+        3. Chrysler 300
+        4. Mercedes(S-class - premium)
+        5. Mercedes(E-class - premium)
+2. **standard SUV**:
     - up to 6 people and six bags(depends on the capacity of bags).
     - *models*:
-      1. GMC Yukon
-      2. Chevrolet Suburban
-      3. Lincoln Navigator
-      4. Ford Expedition
-      5. Cadillac Escalade(premium)
-
-  3. **van**:
+        1. GMC Yukon
+        2. Chevrolet Suburban
+        3. Lincoln Navigator
+        4. Ford Expedition
+        5. Cadillac Escalade(premium)
+3. **van**:
     - has forward facing seats  - standard 13 passengers / 12 bags. There are custom sprinters for custom trips so capacity might vary.
     - *models*:
-      1. Mercedes Sprinter
-      2. Ford Transit.
-    - Note: There is a sprinter limo, looks the same, but instead of forward facing seats has a different/limo seats.
+        1. Mercedes Sprinter
+        2. Ford Transit.
+        - Note: There is a sprinter limo, looks the same, but instead of forward facing seats has a different/limo seats.
 
-  4. *mini-coach*: 18-26 passengers / 18-26 luggage capacity
-
-  5. *coach bus*: 54-56 / 50 luggage capacity.
-
-  6. *stretch limo*: 7/10 depends on the limo.
+4. *mini-coach*: 18-26 passengers / 18-26 luggage capacity
+5. *coach bus*: 54-56 / 50 luggage capacity.
+6. *stretch limo*: 7/10 depends on the limo.
 
 - When to use party buses and stretch limos?
-  - proms
-  - weddings
-  - bachelors/bachelorette party
+    - proms
+    - weddings
+    - bachelors/bachelorette party
 
 - When deciding which vehicle/the price to select consider?
-  - the purpose
-  - number of passengers
-  - luggage
+    - the purpose
+    - number of passengers
+    - luggage
 
 ---
 
 # Drivers
 
-- Types of drivers
-  1. house:
+- Types of drivers:
+1. house:
     - employed by the company - reliable, flexible, good communication(different languages) - drivers make the highest impression on customers.
     - have different schedules, work in shifts
-  2. operators:
+2. operators:
     - used when house drivers are not available.
     - licensed/have their vehicles
     - have their own clients but also wort together with limo companies.
     - they represent the limo company that dispatched them.
-  3. affiliated:
+3. affiliated:
     - they are also second choice.
     - it's a company that has own drivers.
     - they are usually more expensive.
     - check review and availability on software the company uses.
 
 - communication:
-  - through official software.
-  - communication while drivers are with clients in forbidden/unprofessional.
-  - polite and professional communication.
-  - it's important that the driver is on the way.(check the driver, remind him/her an hour in advance)
-  - text to help drivers with location, passenger names.
-  - it's important to always know where is the driver.
-  - drivers accept rides, they can set their own status in the app, in 50% of cases. When they don't it's necessary to call them.
-  - communication should be kept simple.
+    - through official software.
+    - communication while drivers are with clients in forbidden/unprofessional.
+    - polite and professional communication.
+    - it's important that the driver is on the way.(check the driver, remind him/her an hour in advance)
+    - text to help drivers with location, passenger names.
+    - it's important to always know where is the driver.
+    - drivers accept rides, they can set their own status in the app, in 50% of cases. When they don't it's necessary to call them.
+    - communication should be kept simple.
 
 - software:
-  - *Limoanywhere*
-  - *Driveranywhere*
+    - *Limoanywhere*
+    - *Driveranywhere*
 
 - general requirements for the drivers:
-  - be ahead of time(15/20 minutes).
-  - communication between a driver and a client should be simple(let the client know when he is on location).
-  - besides communication, driver opens the door, carries the luggage, helps the client to feel comfortable(newspapers/magazines, bottled water, optimal temperature, etc.), no colones or air fresheners.
-  - drivers are not allowed to enter the house.
-  - driver shouldn't engage in conversation, focused on driving, familiar with the area.
-  - driver according to the traffic rules.
-  - driver takes care of the car(washes the car, refuels, etc.)
-  - drivers should listen to clients when choosing routes.
-  - they are not allowed to take payments, but can accept tips.
-  - should let us know if he is going to be late.
-  - should let the office know if the driver left something.
-  - if the driver can't find location might call to ask.
+    - be ahead of time(15/20 minutes).
+    - communication between a driver and a client should be simple(let the client know when he is on location).
+    - besides communication, driver opens the door, carries the luggage, helps the client to feel comfortable(newspapers/magazines, bottled water, optimal temperature, etc.), no colones or air fresheners.
+    - drivers are not allowed to enter the house.
+    - driver shouldn't engage in conversation, focused on driving, familiar with the area.
+    - driver according to the traffic rules.
+    - driver takes care of the car(washes the car, refuels, etc.)
+    - drivers should listen to clients when choosing routes.
+    - they are not allowed to take payments, but can accept tips.
+    - should let us know if he is going to be late.
+    - should let the office know if the driver left something.
+    - if the driver can't find location might call to ask.
 
 - depending on the distance between the destination, we should check driver. If the ride is 2 hours long, we should check 3 hours before.
 
@@ -134,7 +131,7 @@
 
 - How to choose affiliate:
 
-  1. Check Google reviews - usually the first signal of the attitude.
+1. Check Google reviews - usually the first signal of the attitude.
     - Check working hours.
     - Check the quality of website - if it's outdated, it's a bad sign.
     - Call and ask for *all-inclusive(tax, tolls... - final rate)* affiliate rate, while letting them know that we call on behalf of limo company. - price is based on affiliate price. Point out that driver needs to represent *the company*, not affiliate.
@@ -144,14 +141,14 @@
     - to book affiliate drive we need to provide company's credit card info.
     - send email to affiliate(drive detail, affiliate price).
 
-  2. Use *Limoanywhere*:
+2. Use *Limoanywhere*:
     - if affiliate uses `Limoanywhere`.
     - Network -> Locate Affiliates -> Country Selection
     - after finding a company go to: view -> establish affiliate relationship.
     - after filtering the results based on requirements, research can be done(website, reviews, etc.)
     - Network requests can be seen in the *Network Request* page.
 
-  3. [NLA ride](https://www.nlaride.com/):
+3. [NLA ride](https://www.nlaride.com/):
     - National Limo Association.
     - most of the firms are NLA members.
     - they are considered reliable.
@@ -166,29 +163,29 @@
 - if the company doesn't have *Limoanywhere* use 'Add New Affiliate' section under `My Office -> Company Resources -> Affiliates`
 
 - after finding the drive we want to farm out:
-  1. set the FOT cost.
-  2. the name of affiliate.
-  3. select button farm-out.
-  4. if affiliate uses *Limoanywhere*:
+1. set the FOT cost.
+2. the name of affiliate.
+3. select button farm-out.
+4. if affiliate uses *Limoanywhere*:
     1. select *LA NET*.
     2. fill in the information about the affiliate and trip.
     3. choose vehicle type.
     4. press complete to send the reservation.
     5. affiliate should accept the drive.
-  4. if affiliate doesn't use *Limoanywhere*:
+5. if affiliate doesn't use *Limoanywhere*:
     1. choose the affiliate(always check if the affiliate has *Limoanywhere*)
     2. Use the button manually.
     3. Send a message asking them if they will accept the job.
 
 - How to check if a drive is farmed out?
-  - The first indicator is FOT Type on Dispatch page.
-  - inhouse rides will have INH Type on Dispatch page.
-  - farmed in rides fill have FIN Type on Dispatch page.
-  - when the details are check it can be confirmed, the important information is reference number.
-  - driver should update the status of the ride, so we should check with the driver.
-  - driver's contact information are also available.
-  - check the driver just-in-case, there should be communication.
-  - it can be seen if the ride was farmed out using *LA Net* or *Manual*.
+    - The first indicator is FOT Type on Dispatch page.
+    - inhouse rides will have INH Type on Dispatch page.
+    - farmed in rides fill have FIN Type on Dispatch page.
+    - when the details are check it can be confirmed, the important information is reference number.
+    - driver should update the status of the ride, so we should check with the driver.
+    - driver's contact information are also available.
+    - check the driver just-in-case, there should be communication.
+    - it can be seen if the ride was farmed out using *LA Net* or *Manual*.
 
 - if the company uses *Limoanywhere* we will be able to see the statuses of the FOT rides.
 
@@ -205,33 +202,33 @@
 # Service Types
 
 - services:
-  1. hourly
-  2. point-to-point
+1. hourly
+2. point-to-point
 
 ### Hourly Service
 
 - terms:
-  - road show
-  - hour service
-  - garage-to-garage
+- road show
+- hour service
+- garage-to-garage
 
 - What is *garage to garage* principle?
-  - The hours start when the driver leaves the base until it returns the base.
-  - It's important to let the client know what it means.
+    - The hours start when the driver leaves the base until it returns the base.
+    - It's important to let the client know what it means.
 
 - What is *hourly service*?
-  - hour service is important when there are multiple stops with more than 20 minutes wait time. We don't charge stop that are maid, while transfers are paid per stop.
-  - a driver is at disposal.
-  - there is an hourly minimals(3/4 hour minimum SUV, VANS 4 hour minimum, etc.).
-  - typical for events(weddings, nights out, etc.).
-  - service starts when the client leaves the base and until it leaves, garage-to-garage.
+    - hour service is important when there are multiple stops with more than 20 minutes wait time. We don't charge stop that are maid, while transfers are paid per stop.
+    - a driver is at disposal.
+    - there is an hourly minimals(3/4 hour minimum SUV, VANS 4 hour minimum, etc.).
+    - typical for events(weddings, nights out, etc.).
+    - service starts when the client leaves the base and until it leaves, garage-to-garage.
 
 - What is *road show*?
-  - usually used by corporate clients who need to visit a lot of places.
-  - sight seeing.
+    - usually used by corporate clients who need to visit a lot of places.
+    - sight seeing.
 
 - What is *as directed* service?
-  - it's when a client just wants to ride around the city.
+    - it's when a client just wants to ride around the city.
 
 ### Point to point service(door to door)
 
@@ -264,11 +261,11 @@
 - driver needs to be at location before
 
 - the client has two options to meet the driver:
-  1. *curb side pickup(free-of-charge)*
-    - client needs to bring the luggage where the driver is parked(driver is supposed to help client navigate). - driver needs to have a board name(board sign).
-  2. *meet and greet*
-    - clients can hire driver to help them get the luggage, escort them to the vehicle, etc.  - driver needs to have a name sign.
-    - greeter can he hired if the airport doesn't allow drivers to leave vehicles unattended.
+    1. *curb side pickup(free-of-charge)*
+        - client needs to bring the luggage where the driver is parked(driver is supposed to help client navigate). - driver needs to have a board name(board sign).
+    2. *meet and greet*
+        - clients can hire driver to help them get the luggage, escort them to the vehicle, etc.  - driver needs to have a name sign.
+        - greeter can he hired if the airport doesn't allow drivers to leave vehicles unattended.
 
 ##### To Airport Service
 
