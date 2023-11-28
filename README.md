@@ -432,8 +432,7 @@
 # Part I Questions & Answers
 
 1. Explain in your own words what the limo industry is?
-  - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
-
+    - it's an industry that provides a high level chauffeur service with a luxurious vehicles, custom tailored to provide maximum comfort and convenience, as well as satisfy client's particular needs and desires.
 1. What type of service does Global Bond provide?
   - Global Bond provides customer support service to different companies within limo industry.
 1. What are the main differences between the limo industry and taxi or *Uber* service?
