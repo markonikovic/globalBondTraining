@@ -326,8 +326,6 @@
     - use departure location, destination, airline and time of arrival.
     - so using *flighview*, we can easily find out the information.
 
----
-
 # Mapping
 
 - use Google Maps.
@@ -353,15 +351,11 @@
     - It's best to use *Edit Quote* option to edit the quote.
     - *Email Quote* is used to send quote to the client.
 
----
-
 ## Important Notes
 
 - companies don't give refunds for unused service.
 - any extra hour is charged additionally.
 - waiting time for airports for domestic 45-60min, for international 60-90min.
-
----
 
 # Part I Questions & Answers
 
@@ -411,7 +405,6 @@
     - Vehicles that are usually rented for proms and weddings are:
         - stretched limos.
         - party buses.
-___
 
 # Key Words and Acronyms
 
@@ -430,8 +423,6 @@ ___
 - *meet-and-greet*
 - *hourly service*
 - *point-to-point service*
-
----
 
 # Vehicle Photos
 
