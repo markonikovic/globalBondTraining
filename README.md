@@ -78,7 +78,6 @@
         - it's a company that has own drivers.
         - they are usually more expensive.
         - check review and availability on software the company uses.
-
 - communication:
     - through official software.
     - communication while drivers are with clients in forbidden/unprofessional.
@@ -88,11 +87,9 @@
     - it's important to always know where is the driver.
     - drivers accept rides, they can set their own status in the app, in 50% of cases. When they don't it's necessary to call them.
     - communication should be kept simple.
-
 - software:
     - *Limoanywhere*
     - *Driveranywhere*
-
 - general requirements for the drivers:
     - be ahead of time(15/20 minutes).
     - communication between a driver and a client should be simple(let the client know when he is on location).
@@ -106,7 +103,6 @@
     - should let us know if he is going to be late.
     - should let the office know if the driver left something.
     - if the driver can't find location might call to ask.
-
 - depending on the distance between the destination, we should check driver. If the ride is 2 hours long, we should check 3 hours before.
 
 ---
@@ -411,12 +407,12 @@
     - Customer can initiate the conversation, chauffeurs are not supposed to initiate conversation with the clients, just politely respond to the questions.
 6. Describe the profile of an average black car service driver?
     - Drivers are: 
-      - usually older(ex police officers, military backgrounds...)
-      - well prepared(they have prepared for the route before the actual trip, they need to make sure they have bottled water, wet wipes, newspaper/magazines, and all other necessities expected)
-      - responsible(make sure that the vehicle is pristine condition)
-      - patient and polite - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
-      - helpful(should open doors for clients, help with luggage)
-      - chauffeurs are the most important part of a limo business.
+        - usually older(ex police officers, military backgrounds...)
+        - well prepared(they have prepared for the route before the actual trip, they need to make sure they have bottled water, wet wipes, newspaper/magazines, and all other necessities expected)
+        - responsible(make sure that the vehicle is pristine condition)
+        - patient and polite - clean - looking presentable(clean uniform), high level of hygiene(without cologne or perfume which could cause allergic reaction or any kind of discomfort)
+        - helpful(should open doors for clients, help with luggage)
+        - chauffeurs are the most important part of a limo business.
 7. What is the capacity for a Sedan (passengers, luggage)?
     - the capacity of Sedan is  three passengers and three bags. During COVID-19 the limit was two passengers, some companies might still hold this policy. 
 8. What is the capacity for an SUV (passengers, luggage) ?
