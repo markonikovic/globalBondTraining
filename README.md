@@ -207,10 +207,10 @@
 
 ### Hourly Service
 
-- terms:
-- road show
-- hour service
-- garage-to-garage
+- **important terms**:
+    - road show
+    - hour service
+    - garage-to-garage
 
 - What is *garage to garage* principle?
     - The hours start when the driver leaves the base until it returns the base.
@@ -314,18 +314,18 @@
 - customer without accounts are considered *guests*.
 
 - How to create an account?
-  - there are two options:
-  1. Through already existing reservation:
-    1. after entering the `Edit Reservation` page, check-in `Copy from here` and `Create and account`
-    2. the system will use the information(account info and financial data) from the reservation.
-    3. press `Save` and the account has been created.
-  2. Creating new account without already existing reservation:
-    1. go to `Accounts` section of the main page
-    2. enter data manually
-    3. account type(usually all three options are true but chose options that apply)
-    4. `Internal private notes`(only for agents): important notes about the clients e.g. doesn't like music.
-    5. `Preferences` and `Notes for drivers`: drivers can see them, but it's a good idea to share these notes with drivers.
-    6. In `Financial Data` section is where we enter credit card info.
+    - there are two options:
+        1. Through already existing reservation:
+            1. after entering the `Edit Reservation` page, check-in `Copy from here` and `Create and account`
+            2. the system will use the information(account info and financial data) from the reservation.
+            3. press `Save` and the account has been created.
+        2. Creating new account without already existing reservation:
+            1. go to `Accounts` section of the main page
+            2. enter data manually
+            3. account type(usually all three options are true but chose options that apply)
+            4. `Internal private notes`(only for agents): important notes about the clients e.g. doesn't like music.
+            5. `Preferences` and `Notes for drivers`: drivers can see them, but it's a good idea to share these notes with drivers.
+            6. In `Financial Data` section is where we enter credit card info.
 
 ---
 
@@ -338,41 +338,41 @@
 - for basic requests are usually charged 24 before, or after service, it depends on the limo company and their internal politics.
 
 - types of cards(begins with):
-  - American Express(3)
-  - VISA(4)
-  - MasterCard(5)
-  - Discover(6)
+    - American Express(3)
+    - VISA(4)
+    - MasterCard(5)
+    - Discover(6)
 
 - the important card information:
-  - credit card numbers
-  - expiration date
-  - card type(personal or business) - sometimes clients want to alternate between these types of cards, depending on the purpose of the drive)
-  - full billing address
-  - security code(*Credit Card Notes*)
+    - credit card numbers
+    - expiration date
+    - card type(personal or business) - sometimes clients want to alternate between these types of cards, depending on the purpose of the drive)
+    - full billing address
+    - security code(*Credit Card Notes*)
 
 - How to charge a client?
-  1. Visit `Edit reservation` page of the particular ride.
-  2. Visit `Payment` page.
-  3. when checking the reservation we can see outstanding funds, that means that the payment hasn't been made.
-  4. the next choose `Authorize and Capture` option.
-  5. `Submit` the request.
-  6. After a customer is charged, receipt is usually sent automatically, but again, depending on the company, sometimes it needs to be done manually.
+    1. Visit `Edit reservation` page of the particular ride.
+    2. Visit `Payment` page.
+    3. when checking the reservation we can see outstanding funds, that means that the payment hasn't been made.
+    4. the next choose `Authorize and Capture` option.
+    5. `Submit` the request.
+    6. After a customer is charged, receipt is usually sent automatically, but again, depending on the company, sometimes it needs to be done manually.
 
 - How to hold the funds?
-  1. go to `Edit Reservation`
-  2. Visit `Payment` page.
-  3. to put money on hold use `Authorize` option and select the amount of money to hold.
-  4. Press `Submit`.
-  5. Then press `Capture`, to charge the remaining amount of funds.
+    1. go to `Edit Reservation`
+    2. Visit `Payment` page.
+    3. to put money on hold use `Authorize` option and select the amount of money to hold.
+    4. Press `Submit`.
+    5. Then press `Capture`, to charge the remaining amount of funds.
 
 - How to do the refund?
-  1. in `Edit Reservation`
-  2. Visit `Payment` page, 
-  3. use the `Void` button to void the charge..
-  4. if the charge was already approved `Credit` button should be used so that clients funds are credited within seven days.
+    1. in `Edit Reservation`
+    2. Visit `Payment` page, 
+    3. use the `Void` button to void the charge..
+    4. if the charge was already approved `Credit` button should be used so that clients funds are credited within seven days.
 
 - *Direct Bill Invoice*
-  - used when there are many rides, so we don't need to individually charge all the rides.
+    - used when there are many rides, so we don't need to individually charge all the rides.
 
 ---
 
@@ -383,8 +383,8 @@
 - specific instruction for each client, e.g. How to reach specific location? Gate codes...
 
 - kind of notes:
-  1. trip notes
-  2. dispatch notes
+    1. trip notes
+    2. dispatch notes
 
 ## Trip Notes
 
@@ -413,8 +413,8 @@
 - Learn airport and airline codes.
 
 - if the information is incomplete:
-  - use departure location, destination, airline and time of arrival.
-  - so using *flighview*, we can easily find out the information.
+    - use departure location, destination, airline and time of arrival.
+    - so using *flighview*, we can easily find out the information.
 
 ---
 
@@ -435,21 +435,21 @@
 - section after Accounts in **Lymoanywhere**
 
 - quote(price inquiry):
-  - email
-  - phone
-  - chatbot
-  - website(after clients fill in the form)
+    - email
+    - phone
+    - chatbot
+    - website(after clients fill in the form)
 
 - unresolved quotes are green.
 
 - How to send a quote email to the client?
-  - Use the button *Action*:
-    1. *Open Quote Request*
-    2. *Live Reservation*
-  - When the quote is opened the is a preview of the quote.
-  - On the right side are price information.
-  - It's best to use *Edit Quote* option to edit the quote.
-  - *Email Quote* is used to send quote to the client.
+    - Use the button *Action*:
+        1. *Open Quote Request*
+        2. *Live Reservation*
+    - When the quote is opened the is a preview of the quote.
+    - On the right side are price information.
+    - It's best to use *Edit Quote* option to edit the quote.
+    - *Email Quote* is used to send quote to the client.
 
 ---
 
