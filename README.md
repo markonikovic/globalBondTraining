@@ -511,7 +511,7 @@
   - the capacity of a van is up to 13 passengers and 12 bags.
 
 10. What are some of the most common models for:
-  1.1. SEDAN?
+  10.1. SEDAN?
     1.1.1. Cadillac XTS
     1.1.2. Cadillac CT5
     1.1.3. Chrysler 300
