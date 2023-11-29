@@ -377,6 +377,65 @@
     - It's best to use *Edit Quote* option to edit the quote.
     - *Email Quote* is used to send quote to the client.
 
+# LA Dispatch Grid
+
+- initial page in a calendar view(monthly booking) - it's a general overview of the workload.
+- `Dispatch` menu should be kept active(just don't close it, create new tabs for other stuff), otherwise `LA` will automatically logout.
+- the order of colons is different for different companies but should all be there
+- What the grid contains:
+    1. aliases - companies that use special services.
+    1. status(defines the state of reservation):
+        - unassigned
+        - on the way
+        - arrived
+        - customer in car
+        - accepted
+        - canceled
+        - no-show
+        - ...
+    1. type(kind of booking):
+        - inhouse(INH)
+        - farmed out(FOT)(farmed out)
+        - farmed in(FIN)
+    1. Service Type
+        - from airport
+        - hourly 
+        - to airport
+        - ...
+    1. Vehicle(type of vehicle that is being used )
+        - sedan
+        - SUV
+        - van
+        - ...
+    1. booking code
+    1. PU date
+    1. PU time
+    1. passenger name
+    1. passenger phone number
+    1. Flt(flight) scheduled time
+    1. PU airline Code
+    1. Pu Flight
+    1. PU Tail in FBO
+    1. passenger luggage count
+    1. note
+    1. driver
+    1. affiliate name
+    1. affiliate driver
+    1. affiliate driver phone number
+    1. passenger email
+    1. ...
+    1. payment method
+    1. payment status
+- grid can be used to check the workload for a specific day by using `Calendar` drop down menu on the most left side in the `Grid` window.
+- use `Quick search within grid` to quickly find a reservation under a client name, client name, etc.
+- grid can be customized(which is generally not recommended).
+- under grind there:
+    - map(should use GPS to locate all drivers)
+    - graph
+    - GPS
+
+# Accounts
+
 # Important Notes
 
 - companies don't give refunds for unused service.
