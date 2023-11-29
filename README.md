@@ -359,24 +359,6 @@
 - pickup time depends on the time of the day as well, so always use *arrived by* option, instead of *leave now*.
 - on existing reservation it's possible to use *mapping* from *Limoanywhere*.
 
-# Quotes
-
-- section after Accounts in **Lymoanywhere**
-- quote(price inquiry):
-    - email
-    - phone
-    - chatbot
-    - website(after clients fill in the form)
-- unresolved quotes are green.
-- How to send a quote email to the client?
-    - Use the button *Action*:
-        1. *Open Quote Request*
-        2. *Live Reservation*
-    - When the quote is opened the is a preview of the quote.
-    - On the right side are price information.
-    - It's best to use *Edit Quote* option to edit the quote.
-    - *Email Quote* is used to send quote to the client.
-
 # LA Dispatch Grid
 
 - initial page in a calendar view(monthly booking) - it's a general overview of the workload.
@@ -489,6 +471,65 @@
     - add trip notes
     - set the price
     - press `Save`(this creates a new quote) which can later be converted into live reservation.
+
+# Reservations & Reports
+
+- when searching use one keyword(don't use both first and last name)
+- for reservations that come online.
+- reports is useful tab for fast quality check - check all reservation made for particular date.
+
+# New Reservation
+
+- to make a reservation, from `Dispatch` tab click on `New Res`(best to open in a new tab so `LA` doesn't log out)
+- the process is similar like making quote, but the status is different.
+- crucial info for making a reservation:
+    1. `PU Date`
+    1. `PU Time`
+    1. `PU Address`
+    1. `DO Address`
+    1. `# of Pax`
+    1. `Luggage`
+    1. `Service Type`
+    1. `Vehicle Type`
+    1. Name of pax
+    1. Phone & of pax
+    1. pax email
+- best practice is to be as detailed as possible.
+- best practice is to go section by section, as layed out in reservation view.
+- `DO Time`: for hourly booking otherwise empty
+- `Sport Time`, `Gar Out Time`, `Gar In Time` don't need to be filled in.
+- `Driver should arrive` drop down is active if Airport tab is active.
+- `Address` card/tab inside of reservation view is used for all addresses that are not Airport, Seaport, FBO, etc.
+- best to use main note section
+- use radio buttons (`Pick-up`, `Drop-off`, `Stop`, `Wait`) - to insert details about particular part of the trip.
+- it important to take flight information(arrival date/time, departure date/time)
+- learning airline codes will prove useful.
+- check if the flight is verified.
+- if wait time is longer than 15 minute, that should be set as hourly booking.
+- `Bill To & Pax Notes` is defined into the pax account.
+- `Dispatch notes`(changes, cancellations, any kind of changes in reservation, etc.)
+- make sure that the payment has been made, reservation cannot be finalized before the payment has been made, in most cases.
+- make sure to understand cancellation policies of the company you work for.
+- define child seat details in `Trip Notes`: who is responsible for it, etc.
+- `preferred vehicle type` should be same as `vehicle type`.
+- when editing a reservation, don't forget to press `Save`.
+- make sure when you check `Farm out` box, to actually save during the process of farming out.
+
+# Copy Reservation & FOT
+
+- `Round Trip` can be used to efficiently, book a return trip.
+    - check-in `Link return trip with original trip`
+- `Copy` can by used to copy many/any reservation/s.
+- when *FOT*, remove the notes that affiliate shouldn't see(rates, etc.)
+- for any change in reservation, when FOTing manually, send affiliate trip sheet, and add personal notes what has actually changed(tick `flag as modified`).
+- write the name of the affiliate if it was used in reservation notes.
+
+# Online Reservation
+
+- email arrives with important info.
+- click `Accept/Reject` on the right side.
+- always check in `Email accept notification` and `Email standard confirmation`, never accept reservations unit you check these.
+- if the reservation is without account number(add the reservation to the existing account or create a new account if it doesn't already exist.
 
 # Important Notes
 
