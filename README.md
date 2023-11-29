@@ -165,7 +165,7 @@
     1. set the FOT cost.
     1. the name of the affiliate.
     1. select button `farm-out` + `SAVE`
-2. if affiliate uses `Limoanywhere`:
+1. if affiliate uses `Limoanywhere`:
     1. Select `LA NET`.
     1. Fill in the information about the affiliate and trip.
     1. Be careful with the `NOTES (DELETE DISPATCH NOTES)`
