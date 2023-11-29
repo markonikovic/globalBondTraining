@@ -416,7 +416,7 @@
     - graph
     - GPS
 
-# Accounts
+# LA Accounts
 
 - window that is used when creating new reservations.
 - it's important to make an account for new guests.
@@ -439,7 +439,7 @@
     1. booking contacts
     1. misc(all reservations, account history, customer profile login info(how the customer logs in, reset passwords, etc)...)
 
-# Quote
+# LA Quote
 
 - it is an inquiry about the price of any kind.
 - by phone, email, website...
@@ -472,13 +472,13 @@
     - set the price
     - press `Save`(this creates a new quote) which can later be converted into live reservation.
 
-# Reservations & Reports
+# LA Reservations & Reports
 
 - when searching use one keyword(don't use both first and last name)
 - for reservations that come online.
 - reports is useful tab for fast quality check - check all reservation made for particular date.
 
-# New Reservation
+# LA New Reservation
 
 - to make a reservation, from `Dispatch` tab click on `New Res`(best to open in a new tab so `LA` doesn't log out)
 - the process is similar like making quote, but the status is different.
@@ -515,7 +515,7 @@
 - when editing a reservation, don't forget to press `Save`.
 - make sure when you check `Farm out` box, to actually save during the process of farming out.
 
-# Copy Reservation & FOT
+# LA Copy Reservation & FOT
 
 - `Round Trip` can be used to efficiently, book a return trip.
     - check-in `Link return trip with original trip`
@@ -524,18 +524,36 @@
 - for any change in reservation, when FOTing manually, send affiliate trip sheet, and add personal notes what has actually changed(tick `flag as modified`).
 - write the name of the affiliate if it was used in reservation notes.
 
-# Online Reservation
+# LA Online Reservation
 
 - email arrives with important info.
 - click `Accept/Reject` on the right side.
 - always check in `Email accept notification` and `Email standard confirmation`, never accept reservations unit you check these.
 - if the reservation is without account number(add the reservation to the existing account or create a new account if it doesn't already exist.
 
+# LA Amending a Reservation
+
+- amending request comes in an email.
+- copy information from email into notes to save some time.
+- after any change is best to save to make sure the progress is kept.
+- send affiliate trip sheet, to affiliate, when doing cancellation or a change in reservation,...
+- write the change in `Dispatch note`.
+- after the reservation was amended make sure to respond to the client and make sure to send email to the client to let him/her know, the change has been made.
+- general ideas is that everyone should be aware that the change has been made, and they should know what was changed as well.
+
+# LA Round Trip
+
+- making a booking from an existing account from scratch is a bad idea, so using `Round Trip` makes a lot of sense.
+- always check with customer if they have account or they are a guest, if they are not make account, otherwise use their existing account.
+- when using `Round Trip`, remove vehicle and driver, not to confuse a dispatcher.
+- new reservation will be move to the new window, which is different form the `Copy` function where newly generated reservation must be found in the system.
+
 # Important Notes
 
 - companies don't give refunds for unused service.
 - any extra hour is charged additionally.
 - waiting time for airports for domestic 45-60min, for international 60-90min.
+- flight arrival time is equal to pickup time.
 
 # Part I Questions & Answers
 
