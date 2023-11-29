@@ -436,6 +436,60 @@
 
 # Accounts
 
+- window that is used when creating new reservations.
+- it's important to make an account for new guests.
+- always ask the client if he or she has booked before.
+- three are four tabs/cards:
+    1. companies
+    1. accounts(used most frequently)
+    1. export customers
+    1. email lists
+
+### Accounts(card/tab)
+
+- use search by to easily find a customer using the name phone, company, etc.
+- accounts can be edited(name, email, payments, reservations...).
+
+- under account tab/card there are cards:
+    1. account info
+    1. financial data
+    1. address/bill/pax
+    1. booking contacts
+    1. misc(all reservations, account history, customer profile login info(how the customer logs in, reset passwords, etc)...)
+
+# Quote
+
+- it is an inquiry about the price of any kind.
+- by phone, email, website...
+- usually comes from the website.
+- quotes that are uncomplete are green.
+- quote summary:
+    1. fill in the necessary quote information
+    1. apply the price
+    1. send email to the client with the payment link.
+- quotes are very common.
+- quote procedure:
+    1. Under `Quotes` card/tab click on button `New Res` and select the option `Quote`.
+- How to send an email to the client:
+    1. Use the link `ACTION` of the particular unresolved quote.
+    1. `Open Quote Request`(view of the entire quote)/`Live Reservation`(turns quote into reservation)
+    1. After opening quote request we can see the quote view.
+    1. on the right side there is price.
+    - if any changes are made in this default view, use `Save Quote`.
+    - it's the best practice to use `Edit Quote` tab.
+    - `Email Quote` is used to send emails, all companies have templates that should be used, use the appropriate template, press the button `Load`. Use this way to send email directly or just copy a link to send a *custom* email.
+    - `Convert` turns a quote into booking
+    - There is also `Leave without save` and `Delete`.
+
+- There is a difference between quote and reservation.
+    - in `Edit Quote` tab, on the right side, there is `Status`:
+        1. quote - it's a quote.
+        1. drop down menu - it's a reservation.
+- when working with quotes, regardless of their origin it's necessary to:
+    - add trip notes
+    - set the price
+    - press `Save`(this creates a new quote) which can later be converted into live reservation.
+
 # Important Notes
 
 - companies don't give refunds for unused service.
