@@ -159,7 +159,7 @@
 - `LA-NET` connection
 - in order to send a network request, the company must be in the Limoanywhere
 - `My Office -> Company Resources -> Affiliates`: there is a list of affiliates that a company used in the past – both `LA-NET` or `Manual` FOT
-1. *Manual* FOT connection:
+- *Manual* FOT connection:
     - if the company doesn't have Limoanywhere use `Add New Affiliate` section under `My Office -> Company Resources -> Affiliates`.
 - after finding the booking we want to farm out:
     1. set the FOT cost.
