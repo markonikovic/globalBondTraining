@@ -154,7 +154,7 @@
     - it can be seen if the ride was farmed out using *LA Net* or *Manual*.
 - if the company uses *Limoanywhere* we will be able to see the statuses of the FOT rides.
 
-### FOU Procedure Summary (by Lana)
+### FOT Procedure Summary (by Lana)
 
 - `LA-NET` connection
 - in order to send a network request, the company must be in the Limoanywhere
