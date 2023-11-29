@@ -110,8 +110,8 @@
         - price is based on affiliate price, so before giving a price to the client, it's necessary to get the affiliate price.
         - a driver needs to represent the company which dispatched him, he is not allowed to promote the affiliate company in any way.
         - the total price is: affiliate price + markup price.
-        - to book affiliate drive we need to provide company's credit card info.
-        - send email to affiliate(drive detail, affiliate price).
+        - to book affiliate a trip we need to provide company's credit card info.
+        - send email to affiliate(trip detail, affiliate price).
     2. Use *Limoanywhere*:
         - if affiliate uses `Limoanywhere`.
         - Network -> Locate Affiliates -> Country Selection
@@ -122,14 +122,14 @@
         - National Limo Association.
         - most of the firms are NLA members.
         - they are considered reliable.
-- *Farm in(FIN)* - rent a drive to another company
-- *Farm out(FOT)* - rent a drive from another company.
+- *Farm in(FIN)* - rent a trip to another company
+- *Farm out(FOT)* - rent a trip from another company.
 
 ### Farm-out procedure
 
 - in order to send a network request, the company must be in the system of *Limoanywhere*(`My Office -> Company Resources -> Affiliates`: there is a list of affiliates)
 - if the company doesn't have *Limoanywhere* use 'Add New Affiliate' section under `My Office -> Company Resources -> Affiliates`
-- after finding the drive we want to farm out:
+- after finding the booking we want to farm out:
     1. set the *FOT* cost.
     2. the name of the affiliate.
     3. select button `farm-out`.
@@ -143,7 +143,7 @@
         1. choose the affiliate(always check if the affiliate has *Limoanywhere*)
         2. Use the button `Manually`.
         3. Send a message asking them if they will accept the job.
-- How to check if a drive is farmed out?
+- How to check if a booking is farmed out?
     - The first indicator is `FOT Type` on Dispatch page.
     - inhouse rides will have `INH Type` on Dispatch page.
     - farmed in rides fill have `FIN Type` on Dispatch page.
@@ -153,6 +153,32 @@
     - check the driver just-in-case, there should be communication.
     - it can be seen if the ride was farmed out using *LA Net* or *Manual*.
 - if the company uses *Limoanywhere* we will be able to see the statuses of the FOT rides.
+
+### FOU Procedure Summary (by Lana)
+
+- `LA-NET` connection
+- in order to send a network request, the company must be in the Limoanywhere
+- `My Office -> Company Resources -> Affiliates`: there is a list of affiliates that a company used in the past – both `LA-NET` or `Manual` FOT
+1. *Manual* FOT connection:
+    - if the company doesn't have Limoanywhere use `Add New Affiliate` section under `My Office -> Company Resources -> Affiliates`.
+- after finding the booking we want to farm out:
+    1. set the FOT cost.
+    1. the name of the affiliate.
+    1. select button `farm-out` + `SAVE`
+2. if affiliate uses `Limoanywhere`:
+    1. Select `LA NET`.
+    1. Fill in the information about the affiliate and trip.
+    1. Be careful with the `NOTES (DELETE DISPATCH NOTES)`
+    1. and tick `Transfer notes`
+    1. choose vehicle type
+    1. press `Complete` to send the reservation.
+    - affiliate should accept the ride, and then we get a notification via LA and an email confirmation in the inbox as well.
+1. if affiliate doesn't use `Limoanywhere`:
+    1. choose the affiliate (always check if the affiliate has `LA` and even if they do not, we can add them as an affiliate in LA manually.
+    1. Use the button `Manually`.
+    1. Send a message asking them if they will accept the job, OR any other relevant details…
+    - Note: this action will mark the job/booking as FOT (which makes a huge difference for the entire procedure) and it will send an affiliate trip sheet automatically.
+    - For any later changes/modifications or communication about the certain FOTed job – SEND Affiliate trip sheet from LA, with detailed notes about the change.
 
 ### Affiliate Work
 
@@ -408,6 +434,17 @@
 
 # Key Words and Acronyms
 
+- *PAX*: passenger
+- *SOP*: standard operating procedure
+- *DD*: driver's details
+- *LA*: Limoanywhere
+- *PU*: pickup
+- *DO*: drop off
+- *POB*: (PAX) passenger on board = customer in car CIC
+- *CIC*: customer in car
+- *PDO*: PAX dropped off done
+- *ATS*: affiliate trip sheet
+- *AFF*: affiliate
 - *NEMT*: non-emergent medical transportation.
 - *meet greet*: Meet and greet, also known as Meet and assist, is an airport service that offers airport greeter, fast track services, access to airport lounges, buggy service, porter service, and more to help travelers avoid lengthy airport queues and forget the difficulties of tedious airport requirements.
 - *captain seats*: Captain Seat is a seat made for only one person. This type of seat is usually installed on the second row of seats, separating the right and left passengers. That means there are only two seats in the second or the middle row of the vehicle.
